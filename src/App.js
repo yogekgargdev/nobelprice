@@ -8,7 +8,7 @@ function App() {
 
 
   useEffect(() => {
-    fetch("http://api.nobelprize.org/v1/prize.json").then((result) => {
+    fetch("https://api.nobelprize.org/v1/prize.json").then((result) => {
       result.json().then((resp) => {
         setUser(resp['prizes'])
       })
