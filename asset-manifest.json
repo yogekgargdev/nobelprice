@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nobelprice/static/css/main.073c9b0a.css",
+    "main.js": "/nobelprice/static/js/main.2a1dc79a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/nobelprice/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/nobelprice/index.html",
+    "main.073c9b0a.css.map": "/nobelprice/static/css/main.073c9b0a.css.map",
+    "main.2a1dc79a.js.map": "/nobelprice/static/js/main.2a1dc79a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/nobelprice/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2a1dc79a.js"
+  ]
+}
